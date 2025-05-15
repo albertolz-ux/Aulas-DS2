@@ -1,0 +1,2 @@
+# Aulas-DS2
+Exercícios das aulas de Programação WEB 2025
